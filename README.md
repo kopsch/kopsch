@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/kopsch" target="_blank">
-    <img width="60%" height="170em" src="https://github-readme-stats.vercel.app/api?username=kopsch&hide=stars&count_private=true&show_icons=true&theme=radical"/>
-    <img width="39%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopsch&layout=compact&theme=radical&langs_count=6"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kopsch&hide=stars&count_private=true&show_icons=true&theme=radical"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopsch&layout=compact&theme=radical&langs_count=6"/>
   </a>
 </div>
 
