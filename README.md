@@ -5,7 +5,9 @@
 - 🎴 otaku dev! (my fav anime is bleach)
 - 🕹 gamer dev! (my fav games are ghost of tsushima and doom eternal)
 
-  <img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif"/>
+<div>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif"/>
+</div>
 
 <div align="center">
   <a href="https://github.com/kopsch" target="_blank">
