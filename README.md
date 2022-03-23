@@ -1,5 +1,11 @@
-### Hi there 👋
+## heya, my name's Pedro!~✨
 
+- 😄 pronouns: he/him!
+- 🌱 I’m currently learning some back-end stuff like django and node;
+- 🎴 otaku dev! (my fav anime is bleach)
+- 🕹 gamer dev! (my fav games are ghost of tsushima and doom eternal)
+
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif"/>
 
 <div>
   <a href="https://github.com/kopsch" target="_blank">
@@ -19,7 +25,8 @@
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />       
-    <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />       
+  <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+      <img align="center" alt="Aws" height="40" width="" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />  
 
 
   <img align="right" alt="pic" height="150" src="https://s1.gifyu.com/images/output-onlinegiftools37a605ea5156814f.gif">
@@ -29,15 +36,16 @@
   
   <div> 
 
- <a href="https://discordapp.com/users/512845338067861505" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:pedrokopsch@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-kopsch" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/thaekifps" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:pedrokopsch@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
+  [![Linkedin: pedro-kopsch](https://img.shields.io/badge/-Pedro_Kopsch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-kopsch/)](https://www.linkedin.com/in/pedro-kopsch/)
+[![Twitter: thaekifps](https://img.shields.io/twitter/follow/thaekifps?style=social)](https://twitter.com/thaekifps)
+</div>
+
+<div align="center">
   
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+![Snake animation](https://github.com/kopsch/kopsch/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 <!--
