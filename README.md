@@ -30,8 +30,10 @@
   <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />       
   <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-      <img align="center" alt="Aws" height="40" width="" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />  
-
+  <img align="center" alt="Aws" height="40" width="" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />  
+  <img align="center" alt="Laravel" height="30" width="" src="https://cdn.iconscout.com/icon/free/png-256/free-laravel-226015.png" />
+  <img align="center" alt="Angular" height="30" width="" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" />
+  <img align="center" alt="Next JS" height="30" width="" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" />
 
   <img align="right" alt="pic" height="150" src="https://s1.gifyu.com/images/output-onlinegiftools37a605ea5156814f.gif"/>
 </div>
