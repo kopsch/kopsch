@@ -2,8 +2,6 @@
 
 - 😄 pronouns: he/him!
 - 🌱 I’m currently learning some back-end stuff like django and node;
-- 🎴 otaku dev! (my fav anime is bleach)
-- 🕹 gamer dev! (my fav games are ghost of tsushima and doom eternal)
 
 <div style="width: 50%" align="center">
   <img style="width: 100%"  src="https://steamuserimages-a.akamaihd.net/ugc/357274991573757548/8B65263F5D4377E215DCC05694FC6872E83F64A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
